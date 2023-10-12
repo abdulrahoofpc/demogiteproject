@@ -1,2 +1,2 @@
-def home():
+def home2():
     pass
